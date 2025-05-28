@@ -1,5 +1,5 @@
 
-# Azure Functions in Python
+#  Azure Functions and Output Bindings
 
 Demo Link Video: 
 
