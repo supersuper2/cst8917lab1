@@ -1,7 +1,7 @@
 
 # Azure Functions in Python
 
-Demo Link Video: https://youtu.be/Fzexb-M3ulw
+Demo Link Video: 
 
 ---
 
