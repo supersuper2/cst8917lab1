@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=cst8917lab1part2;AccountKey=oQX7lPrB01QLDyvZFkvjMtIcWbd3qgVEd3qdixyfZrgLYqgy82CshJlJYPErDgtwpkBCPq/sBmUY+AStiWnBvg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "DEPLOYMENT_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=cst8917lab1;AccountKey=ixSIRPPu4CXoWvXN6zTCQD9VQ2e0ZJ88kcyxPkOY8cOw7sm6+yCTdKfCVrAmvD9xJxZRZiCdT0+J+ASt/rn41w==;EndpointSuffix=core.windows.net",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=8853d919-e1ed-40f5-bb26-2b4d7f6ed14e;IngestionEndpoint=https://canadacentral-1.in.applicationinsights.azure.com/;LiveEndpoint=https://canadacentral.livediagnostics.monitor.azure.com/;ApplicationId=dc1a6eda-9761-4c10-9aaf-624f0ad7779e",
+    "SqlConnectionString": "Server=tcp:cst8917labs.database.windows.net,1433;Initial Catalog=cst8917lab;Persist Security Info=False;User ID=azureuser;Password=*5BkegA&0B3L;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}
