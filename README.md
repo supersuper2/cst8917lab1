@@ -1,7 +1,7 @@
 
 #  Azure Functions and Output Bindings
 
-Demo Link Video: 
+Demo Link Video: https://youtu.be/MY1kqeI7bUo
 
 ---
 
